@@ -9,7 +9,7 @@ The game is a fairly small project suitable for beginners
 who understand the basic concepts of programming, or for
 veteran developers looking to pick up a new language.
 
-Along the way, it will expose you to some common software
+Along the way, it  will expose you to some common software
 engineering tools and practices that might not be familiar
 to new developers.
 
